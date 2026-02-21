@@ -28,14 +28,7 @@ Electron (Interface Desktop)
 - Node.js 18+
 - Python 3.10 ou 3.11 recomendado
 - Modelo GPT4All (.gguf)
-
-## Estrutura do Projeto
-
-ia/
-├── electron
-├── node-backend
-└── python-ai
-
+- 
 - Verifique se o modelo GPT4All está configurado corretamente no arquivo `ai_server.py`.
 - Utilize Python 3.11 para maior compatibilidade com bibliotecas de IA.
 
